@@ -42,7 +42,7 @@ responses = [
 
 ]
 
-print("ask the magic 8 ball anything (type \"stop\" if you don't want to do this anymore) ):")
+print("ask the magic 8 ball anything (type \"stop\" if you don't want to do this anymore) ")
 
 while True:
     user_input = input("your question? > ").strip().lower()
